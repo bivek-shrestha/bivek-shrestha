@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bivek-shrestha
 - 👀 I’m interested in Data Science and Python development
 - 🌱 I’m currently learning Data Engineering
-- 💞️ I’m looking to collaborate on ...
+
 
 
 <!---
