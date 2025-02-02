@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bivek-shrestha
-- 👀 I’m interested in Data Science and Python development
-- 🌱 I’m currently learning Data Engineering
+- 👀 I’m interested in Data Science and Web/App development
+- 🌱 I’m currently learning Web Development Laravel and Mern Stack
 
 
 
